@@ -6,6 +6,7 @@ import json.Message;
  * @author dq
  *
  */
+//管道的状态的缺省参数
 public class Const {
     public final static String CALL_TYPE_PREPARE = "prepare";
     public final static String CALL_TYPE_SEND = "send";
